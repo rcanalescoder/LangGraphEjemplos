@@ -131,6 +131,12 @@ Dividimos el proceso en varios pasos:
 
 El objetivo es mostrar que un agente puede ser **un proceso estructurado**, no solo una llamada al modelo.
 
+Además, en este nivel introducimos **instrumentación y contadores** (`grafo_nivel_2_contadores.py`). Registramos las métricas de las llamadas al LLM para cada nodo:
+* tokens de entrada y salida
+* latencias (tiempo de prompt y de generación)
+
+Esto permite entender mejor el coste técnico de cada paso del flujo.
+
 ---
 
 ## Nivel 3 — Rutas condicionales
@@ -254,4 +260,4 @@ Puedes contribuir con:
 
 Este proyecto se publica con fines educativos para aprender sobre **arquitecturas de agentes con LangGraph**.
 
-
+Está distribuido bajo la [Licencia MIT](LICENSE). Consulta el archivo `LICENSE` para más detalles.
