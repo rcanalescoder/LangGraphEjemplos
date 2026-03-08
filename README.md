@@ -1,4 +1,3 @@
-````markdown
 # 🏡 Asistente de Atención al Cliente para una Casa Rural con LangGraph
 
 Este repositorio muestra cómo construir paso a paso un **sistema de atención al cliente basado en agentes de IA** utilizando **LangGraph** y un **LLM ejecutándose en local con Ollama**.
@@ -255,5 +254,4 @@ Puedes contribuir con:
 
 Este proyecto se publica con fines educativos para aprender sobre **arquitecturas de agentes con LangGraph**.
 
-```
-```
+
