@@ -1,7 +1,7 @@
 {
     "python-envs.pythonProjects": [
         {
-            "path": "paso1.py",
+            "path": "grafo_nivel_1.py",
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
         }
