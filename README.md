@@ -163,6 +163,10 @@ El agente empieza a **actuar sobre información externa**, por ejemplo:
 
 Aquí el sistema deja de ser solo conversacional y empieza a comportarse como un **asistente operativo**.
 
+Además, en este ejemplo visualizamos la estructura del grafo para entender mejor el flujo de ejecución:
+
+![Grafo Nivel 4](grafo_nivel_4.png)
+
 ---
 
 ## Nivel 5 — Validación y memoria
